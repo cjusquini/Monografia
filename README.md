@@ -6,7 +6,7 @@
 ### Instrucciones
 
 Para la ejecución del notebook llamado "**DataProcessing.ipynb**" usted podrá abrirlo en Google Colab de la siguiente manera:
-- Una vez en el repositorio, abrir el notebook directamente en GitHub, lo redireccionará a un enlace similar al siguiente: https://github.com/cjusquini/Monografia/blob/main/DataProcessing.ipynb
+- Una vez en el repositorio, abrir el notebook directamente en GitHub, lo redireccionará a un enlace similar al siguiente: "https://github.com/cjusquini/Monografia/blob/main/DataProcessing.ipynb"
 
 - Debe cambiar el dominio "github.com" por "githubtocolab.com" y el notebook abrirá en Google Colab: "https://githubtocolab.com/cjusquini/Monografia/blob/main/DataProcessing.ipynb"
 - Ejecutar el notebook
